@@ -5,11 +5,11 @@
 </template>
 
 <script>
-import TabBarItem from "./TabBarItem.vue"
+// import TabBarItem from "./TabBarItem.vue"
 export default {
   name: 'TabBar',
   components: {
-      TabBarItem,
+      
   }
 }
 </script>

@@ -9,5 +9,8 @@ module.exports={
                 'network': '@/network',
             }
         }
+    },
+    devServer:{
+        port:8081,
     }
 }
