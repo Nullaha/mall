@@ -12,5 +12,6 @@ module.exports={
     },
     devServer:{
         port:8081,
-    }
+    },
+    lintOnSave:false, //避免Eslint报错
 }
